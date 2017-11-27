@@ -62,7 +62,6 @@ client.itemLookup({
     
     
     resp.json(results);
-    resp.send(results);
     
     
 });
